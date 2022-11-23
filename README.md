@@ -11,7 +11,8 @@
 5. 🔨「NetworkWeaver」 - 集成 TCP/UDP + 数据序列化方案的网络通信库: https://github.com/chenwansal/NetworkWeaver  
 6. 🔨「UnityDirtyCompiler」 - Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/chenwansal/UnityDirtyCompiler  
 7. 🔨「JRP」 - 自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
-8. 制作中...  
+8. 🔨「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
+9. 制作中...  
 
 ### 师傅你都有哪些作品?
 1. 🎮「忍者明」 - Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140  
