@@ -5,14 +5,15 @@
 
 ### 师傅你都写了什么有趣的 or 有用的库?  
 1. 🔨「FPMath」 - 定点数数学库(含线性运算): https://github.com/chenwansal/FPMath  
-2. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
-3. 🔨「PureBTTree」 - 行为树(纯净C# 不依赖Unity): https://github.com/chenwansal/PureBTTree  
-4. 🔨「BufferIO」 - 二进制序列化函数库: https://github.com/chenwansal/BufferIO  
-5. 🔨「NetworkWeaver」 - 集成 TCP/UDP + 数据序列化方案的网络通信库: https://github.com/chenwansal/NetworkWeaver  
-6. 🔨「UnityDirtyCompiler」 - Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/chenwansal/UnityDirtyCompiler  
-7. 🔨「JRP」 - 自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
-8. 🔨「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
-9. 制作中...  
+2. 🔨「JackDataStructure」 - 数据结构库(目前有: 定点数版四叉树、定点数版八叉树): https://github.com/chenwansal/JackDataStructure  
+3. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
+4. 🔨「PureBTTree」 - 行为树(纯净C# 不依赖Unity): https://github.com/chenwansal/PureBTTree  
+5. 🔨「BufferIO」 - 二进制序列化函数库: https://github.com/chenwansal/BufferIO  
+6. 🔨「NetworkWeaver」 - 集成 TCP/UDP + 数据序列化方案的网络通信库: https://github.com/chenwansal/NetworkWeaver  
+7. 🔨「UnityDirtyCompiler」 - Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/chenwansal/UnityDirtyCompiler  
+8. 🔨「JRP」 - 自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
+9. 🔨「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
+10. 制作中...  
 
 ### 师傅你都有哪些作品?
 1. 🎮「忍者明」 - Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140  
