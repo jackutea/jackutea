@@ -4,7 +4,7 @@
 搞游戏开发的，客户端(Unity3D)为主，服务端也会（但不爱写服务端）。  
 
 ### 师傅你都写了什么有趣的 or 有用的库?  
-1. 🔨「FPMath」 - 定点数数学库(含线性运算/四叉树数据结构): https://github.com/chenwansal/FPMath  
+1. 🔨「FPMath」 - 定点数数学库(含线性运算): https://github.com/chenwansal/FPMath  
 2. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
 3. 🔨「PureBTTree」 - 行为树(纯净C# 不依赖Unity): https://github.com/chenwansal/PureBTTree  
 4. 🔨「BufferIO」 - 二进制序列化函数库: https://github.com/chenwansal/BufferIO  
