@@ -26,5 +26,5 @@
 7. 🎮「EXIT」 - GameJam 48h Demo: https://www.gcores.com/games/81338  
 8. 制作中...  
 
-[![杰克有茶 GitHub stats](https://github-readme-stats.vercel.app/api?username=chenwansal)](https://github.com/anuraghazra/github-readme-stats)
+[![杰克有茶 GitHub stats](https://github-readme-stats.vercel.app/api?username=chenwansal)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenwansal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
