@@ -9,12 +9,13 @@
 3. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
 4. 🔨「PureBTTree」 - 行为树(纯净C# 不依赖Unity): https://github.com/chenwansal/PureBTTree  
 5. 🔨「BufferIO」 - 二进制序列化函数库: https://github.com/chenwansal/BufferIO  
-6. 🔨「NetworkWeaver」 - 集成 TCP/UDP + 数据序列化方案的网络通信库: https://github.com/chenwansal/NetworkWeaver  
-7. 🔨「UnityDirtyCompiler」 - Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/chenwansal/UnityDirtyCompiler  
-8. 🔨「JRP」 - 自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
-9. 🔨「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
-10. 🔨「TripodCamera」 - 相机库（基于Unity Camera）: https://github.com/chenwansal/TripodCamera  
-11. 制作中...  
+6. 🔨「CrossIO」 - 文件存取库(主要用于Unity的Persistent): https://github.com/chenwansal/CrossIO  
+7. 🔨「NetworkWeaver」 - 集成 TCP/UDP + 数据序列化方案的网络通信库: https://github.com/chenwansal/NetworkWeaver  
+8. 🔨「UnityDirtyCompiler」 - Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/chenwansal/UnityDirtyCompiler  
+9. 🔨「JRP」 - 自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
+10. 🔨「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
+11. 🔨「TripodCamera」 - 相机库（基于Unity Camera）: https://github.com/chenwansal/TripodCamera  
+12. 制作中...  
 
 ### 师傅你都有哪些作品?
 1. 🎮「忍者明」 - Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140  
