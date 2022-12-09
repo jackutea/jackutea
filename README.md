@@ -1,9 +1,10 @@
 # 杰克有茶 👋
 
 ### 我
-搞游戏开发的，客户端(Unity3D)为主，服务端也会（但不爱写服务端）。  
+搞游戏开发的。  
+造轮侠，也是应用派。
 
-### 库
+### 轮子
 1. 🔨「FPMath」 - 定点数数学库(含线性运算): https://github.com/chenwansal/FPMath  
 2. 🔨「JackDataStructure」 - 数据结构库(目前有: 定点数版四叉树、定点数版八叉树): https://github.com/chenwansal/JackDataStructure  
 3. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
