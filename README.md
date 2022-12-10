@@ -6,7 +6,7 @@
 
 
 ### 轮子
-- 🎉 表示稳定 | 🔨 表示可用，但不保证稳定性 | 🧶 表示不可用
+🎉 表示稳定 | 🔨 表示可用，但不保证稳定性 | 🧶 表示不可用  
 1. 🎉「FPMath」 - 定点数数学库(含线性运算): https://github.com/chenwansal/FPMath  
 2. 🔨「JackDataStructure」 - 数据结构库(目前有四/八叉树的定点数和浮点数版): https://github.com/chenwansal/JackDataStructure  
 3. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
