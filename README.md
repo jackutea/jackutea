@@ -17,8 +17,9 @@
 8. 🔨「UnityDirtyCompiler」 - Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/chenwansal/UnityDirtyCompiler  
 9. 🧶「JRP」 - 自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
 10. 🎉「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
-11. 🎉「TripodCamera」 - 相机库（基于Unity Camera）: https://github.com/chenwansal/TripodCamera  
-12. 制作中...  
+11. 🎉「TripodCamera」 - 3D 相机库（基于Unity Camera）: https://github.com/chenwansal/TripodCamera  
+12. 🔨「PlatformerCamera」 - 2D 相机库（基于Unity Camera）: https://github.com/chenwansal/PlatformerCamera  
+13. 制作中...  
 
 ### 作品
 🎮 表示准备进入市场 | 🎃 表示仅DEMO且不再研发 | 🤿 表示已下线
