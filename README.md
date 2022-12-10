@@ -6,7 +6,7 @@
 
 ### 轮子
 1. 🔨「FPMath」 - 定点数数学库(含线性运算): https://github.com/chenwansal/FPMath  
-2. 🔨「JackDataStructure」 - 数据结构库(目前有: 定点数版四叉树、定点数版八叉树): https://github.com/chenwansal/JackDataStructure  
+2. 🔨「JackDataStructure」 - 数据结构库(目前有四/八叉树的定点数和浮点数版): https://github.com/chenwansal/JackDataStructure  
 3. 🔨「FPPhysics2D」 - 定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/chenwansal/FPPhysics2D  
 4. 🔨「PureBTTree」 - 行为树(纯净C# 不依赖Unity): https://github.com/chenwansal/PureBTTree  
 5. 🔨「BufferIO」 - 二进制序列化函数库: https://github.com/chenwansal/BufferIO  
