@@ -21,13 +21,14 @@
 12. 制作中...  
 
 ### 作品
+🎮 表示准备进入市场 | 🎃 表示仅DEMO且不再研发 | 🤿 表示已下线
 1. 🎮「忍者明」 - Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140  
-2. 🎮「让阿红愉快地听音乐」 - GameJam 24h 半成品: https://github.com/chenwansal/jamsavered  
-3. 🎮「Doodle World」 - GameJam 48h Demo: https://pan.baidu.com/s/1wuJA0KSOxpIl5oxr22mUlw 提取码:1111  
-4. 🎮「伯恩」 - GameJam 48h Demo: https://pan.baidu.com/s/1FYtqXjiQzSnRis3idazt-w 提取码:1111
-5. 🎮「夺门而出吧!蚂蚁姬」 - GameJam 48h Demo: https://github.com/chenwansal/jamantprincess  
-6. 🎮「阿明侦探所」 - 即刻上的网页小游戏: https://github.com/chenwansal/amingmist  
-7. 🎮「EXIT」 - GameJam 48h Demo: https://www.gcores.com/games/81338  
+2. 🎃「让阿红愉快地听音乐」 - GameJam 24h 半成品: https://github.com/chenwansal/jamsavered  
+3. 🎃「Doodle World」 - GameJam 48h Demo: https://pan.baidu.com/s/1wuJA0KSOxpIl5oxr22mUlw 提取码:1111  
+4. 🎃「伯恩」 - GameJam 48h Demo: https://pan.baidu.com/s/1FYtqXjiQzSnRis3idazt-w 提取码:1111
+5. 🎃「夺门而出吧!蚂蚁姬」 - GameJam 48h Demo: https://github.com/chenwansal/jamantprincess  
+6. 🤿「阿明侦探所」 - 即刻上的网页小游戏: https://github.com/chenwansal/amingmist  
+7. 🎃「EXIT」 - GameJam 48h Demo: https://www.gcores.com/games/81338  
 8. 制作中...  
 
 [![杰克有茶's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenwansal)](https://github.com/anuraghazra/github-readme-stats)  
