@@ -20,7 +20,8 @@
 11. 🎉「JackEasing」 - 缓动函数库: https://github.com/chenwansal/JackEasing  
 12. 🎉「TripodCamera」 - 3D 相机库（基于Unity Camera）: https://github.com/chenwansal/TripodCamera  
 13. 🔨「PlatformerCamera」 - 2D 相机库（基于Unity Camera）: https://github.com/chenwansal/PlatformerCamera  
-14. 制作中...  
+14. 🧶「GenGen」 - 生成库(噪声/迷宫等): https://github.com/chenwansal/GenGen  
+15. 制作中...   
 
 ### 作品
 🎮 表示准备进入市场 | 🎃 表示仅DEMO且不再研发 | 🤿 表示已下线
