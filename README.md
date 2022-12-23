@@ -19,7 +19,7 @@
 10. 🔨「UnityDirtyCompiler」Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/GameArki/UnityDirtyCompiler  
 11. 🧶「JRP」自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/chenwansal/JRP  
 12. 🎉「JackEasing」缓动函数库: https://github.com/GameArki/JackEasing  
-13. 🎉「TripodCamera」3D 相机库（基于Unity Camera）: https://github.com/chenwansal/TripodCamera  
+13. 🎉「TripodCamera」3D 相机库（基于Unity Camera）: https://github.com/GameArki/TripodCamera  
 14. 🔨「PlatformerCamera」2D 相机库（基于Unity Camera）: https://github.com/GameArki/PlatformerCamera  
 15. 🧶「GenGen」生成库(噪声/迷宫等): https://github.com/GameArki/GenGen  
 16. 🧶「JackPathFinding」寻路(AStar/JPS): https://github.com/chenwansal/JackPathFinding  
