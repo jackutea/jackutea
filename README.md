@@ -5,7 +5,7 @@
 造轮侠，也是应用派。
 
 ### 轮子
-🎉 表示稳定 | 🔨 表示可用，但不保证稳定性 | 🧶 表示不可用  
+🎉 稳定 | 🔨 可用，但不保证稳定性 | 🧶 不可用  
 - 可使用 GameArkiSetup 安装以下大部分库: https://github.com/GameArki/GameArkiSetup  
 1. 🎉「ArkiUtils」C# 扩展 / Unity 扩展: https://github.com/GameArki/ArkiUtils  
 2. 🎉「ArkiMenuTool」Unity 菜单工具(重新生成csproj/切割Sprite): https://github.com/GameArki/ArkiMenuTool  
@@ -27,7 +27,7 @@
 18. 制作中...   
 
 ### 作品
-🎮 表示准备进入市场 | 🎃 表示仅DEMO且不再研发 | 🤿 表示已下线
+🎮 研发中 | 🎃 仅DEMO且不再研发 | 🤿 已下线
 1. 🎮「忍者明」Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140  
 2. 🎃「让阿红愉快地听音乐」GameJam 24h 半成品: https://github.com/jackutea/jamsavered  
 3. 🎃「Doodle World」GameJam 48h Demo: https://pan.baidu.com/s/1wuJA0KSOxpIl5oxr22mUlw 提取码:1111  
