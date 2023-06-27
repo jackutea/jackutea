@@ -15,7 +15,7 @@
 6. 🔨「FPPhysics2D」定点数2D物理引擎(目前自己项目在用, 渐进地开发): https://github.com/GameArki/FPPhysics2D  
 7. 🔨「PureBTTree」行为树(纯净C# 不依赖Unity): https://github.com/GameArki/PureBTTree  
 8. 🎉「BufferIO」二进制序列化函数库: https://github.com/GameArki/BufferIO  
-9. 🎉「CrossIO」文件存取库(主要用于Unity的Persistent): https://github.com/GameArki/CrossIO  
+9. 🔨「CrossIO」文件存取库(主要用于Unity的Persistent): https://github.com/GameArki/CrossIO  
 10. 🔨「NetworkWeaver」集成 TCP/UDP + 数据序列化方案的网络通信库: https://github.com/GameArki/NetworkWeaver  
 11. 🔨「UnityDirtyCompiler」Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间): https://github.com/GameArki/UnityDirtyCompiler  
 12. 🧶「JRP」自定义渲染管线(SRP), 还在学习中, 所以目前仅自用: https://github.com/jackutea/JRP  
