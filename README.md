@@ -7,7 +7,7 @@
 ### 轮子
 🎉 稳定 | 🔨 可用，但不保证稳定性 | 🧶 不可用  
 - 可使用 GameArkiSetup 安装以下大部分库: https://github.com/GameArki/GameArkiSetup  
-1. 🎉「ArkiUtils」C# 扩展 / Unity 扩展: https://github.com/GameArki/ArkiUtils  
+1. 🎉「Anymotion」基于 Playables 的 Unity 动画系统: https://github.com/GameArki/Anymotion    
 2. 🎉「ArkiMenuTool」Unity 菜单工具(重新生成csproj/切割Sprite): https://github.com/GameArki/ArkiMenuTool  
 3. 🧶「LingLang」玲珑语言(静态编译型语言, 无VM, 目前处于玩具阶段): https://github.com/LingLanguage/LingLang
 4. 🎉「FPMath」定点数数学库(含线性运算): https://github.com/GameArki/FPMath  
