@@ -9,7 +9,8 @@
 @zeroerror 游戏引擎开发选手: https://github.com/zeroerror  
 @mxmx-fun 快速成长的客户端游戏开发: https://github.com/mxmx-fun  
 @DaKingKong 某软件布道师&独立游戏创作者: https://github.com/DaKingKong  
-@lazyihui 成长中的游戏程序姑娘: https://github.com/lazyihui  
+@lazyihui 成长中的游戏工程师: https://github.com/lazyihui  
+@MiaoELin 成长中的游戏工程师: https://github.com/miaoelin  
 
 ### 我的轮子
 🎉 稳定 | 🔨 可用，但不保证稳定性 | 🧶 不可用  
