@@ -1,16 +1,5 @@
 # 杰克有茶 👋
-
-### 我
-游戏设计师/游戏开发工程师。  
-造轮侠，也是应用派。  
-
-### 我的朋友
-@onovich 像素画画得最好的游戏开发工程师&独立游戏创作者: https://github.com/onovich  
-@zeroerror 游戏引擎开发选手: https://github.com/zeroerror  
-@mxmx-fun 快速成长的客户端游戏开发: https://github.com/mxmx-fun  
-@DaKingKong 某软件布道师&独立游戏创作者: https://github.com/DaKingKong  
-@lazyihui 成长中的游戏工程师: https://github.com/lazyihui  
-@MiaoELin 成长中的游戏工程师: https://github.com/miaoelin  
+A Spartan-Programmer.
 
 ### 我的轮子
 🎉 稳定 | 🔨 可用，但不保证稳定性 | 🧶 不可用  
@@ -38,12 +27,18 @@
 4. 🎃「Doodle World」GameJam 48h Demo: https://pan.baidu.com/s/1wuJA0KSOxpIl5oxr22mUlw 提取码:1111  
 5. 🎃「伯恩」GameJam 48h Demo: https://pan.baidu.com/s/1FYtqXjiQzSnRis3idazt-w 提取码:1111
 6. 🎃「夺门而出吧!蚂蚁姬」GameJam 48h Demo: https://github.com/jackutea/jamantprincess  
-7. 🤿「阿明侦探所」即刻上的网页小游戏: https://github.com/jackutea/amingmist  
-8. 🎃「EXIT」GameJam 48h Demo: https://www.gcores.com/games/81338  
-9. 制作中...
+7. 🤿「阿明侦探所」即刻上的网页小游戏: https://github.com/jackutea/amingmist
 
-### 教学项
-1. 「GeneralProblem」常用编程问题: https://github.com/jackutea/GeneralProblem
+### 我的朋友
+@onovich 像素画画得最好的游戏开发工程师&独立游戏创作者: https://github.com/onovich  
+@zeroerror 游戏引擎开发选手: https://github.com/zeroerror  
+@mxmx-fun 快速成长的客户端游戏开发: https://github.com/mxmx-fun  
+@DaKingKong 某软件布道师&独立游戏创作者: https://github.com/DaKingKong  
+@lazyihui 成长中的游戏工程师: https://github.com/lazyihui  
+@MiaoELin 成长中的游戏工程师: https://github.com/miaoelin  
+9. 🎃「EXIT」GameJam 48h Demo: https://www.gcores.com/games/81338  
+10. 制作中...
+
 
 [![杰克有茶's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackutea)](https://github.com/anuraghazra/github-readme-stats)  
 [![杰克有茶's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackutea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
