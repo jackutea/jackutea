@@ -10,14 +10,12 @@ A Spartan-Programmer.
 - 🎉「FPMath」定点数数学库(含线性运算)
 - 🎉「FPEasing」缓动函数库
 - 🎉「BufferIO」二进制序列化函数库
-- 🎉「NoBuf」无GC的二进制序列化函数库
-- 🎉「NativeBytes」无GC数组与UTF8字符串
 - 🔨「NetworkWeaver」集成 TCP/UDP + 数据序列化方案的网络通信库
-- 🔨「UnityDirtyCompiler」Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间)
 - 🔨「FPPhysics2D」定点数2D物理引擎(目前自己项目在用, 渐进地开发)
 - 🔨「PlatformerCamera」2D 相机库（基于Unity Camera）
 - 🔨「PureBTTree」行为树(纯净C# 不依赖Unity)
 - 🔨「ArkiDataStructure」数据结构库(目前有四/八叉树的定点数和浮点数版)
+2. 🔨「UnityDirtyCompiler」Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间)
 
 ### 作品
 🎮 研发中 | 🎃 仅DEMO且不再研发 | 🤿 已下线
