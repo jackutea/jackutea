@@ -26,6 +26,8 @@ A Spartan-Programmer.
 5. 🎃「伯恩」GameJam 48h Demo: https://pan.baidu.com/s/1FYtqXjiQzSnRis3idazt-w 提取码:1111
 6. 🎃「夺门而出吧!蚂蚁姬」GameJam 48h Demo: https://github.com/jackutea/jamantprincess  
 7. 🤿「阿明侦探所」即刻上的网页小游戏: https://github.com/jackutea/amingmist
+9. 🎃「EXIT」GameJam 48h Demo: https://www.gcores.com/games/81338  
+10. 制作中(2D塔防/3D驾驶/2D生存建造)
 
 ### 我的朋友
 @onovich 像素画画得最好的游戏开发工程师&独立游戏创作者: https://github.com/onovich  
@@ -34,8 +36,6 @@ A Spartan-Programmer.
 @DaKingKong 某软件布道师&独立游戏创作者: https://github.com/DaKingKong  
 @lazyihui 成长中的游戏工程师: https://github.com/lazyihui  
 @MiaoELin 成长中的游戏工程师: https://github.com/miaoelin  
-9. 🎃「EXIT」GameJam 48h Demo: https://www.gcores.com/games/81338  
-10. 制作中...
 
 
 [![杰克有茶's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackutea)](https://github.com/anuraghazra/github-readme-stats)  
