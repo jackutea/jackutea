@@ -4,6 +4,7 @@ A Spartan-Programmer.
 ### 我的轮子
 🎉 稳定 | 🔨 可用，但不保证稳定性 | 🧶 不可用  
 1. GameArkiSetup 游戏基础设施库: https://github.com/GameArki/GameArkiSetup  
+注: 部分功能同步至 https://github.com/GameArki/GameFunctions  
 - 🎉「Anymotion」基于 Playables 的 Unity 动画系统
 - 🎉「TripodCamera」3D 相机库（基于Unity Camera）
 - 🎉「ArkiMenuTool」Unity 菜单工具(重新生成csproj/切割Sprite)
@@ -16,6 +17,9 @@ A Spartan-Programmer.
 - 🔨「PureBTTree」行为树(纯净C# 不依赖Unity)
 - 🔨「ArkiDataStructure」数据结构库(目前有四/八叉树的定点数和浮点数版)
 2. 🔨「UnityDirtyCompiler」Unity 脏脚本编译工具(支持2019.4, 能减少8秒的运行时代码编译时间)
+
+### 我的教学
+https://github.com/JackGuiding
 
 ### 作品
 🎮 研发中 | 🎃 仅DEMO且不再研发 | 🤿 已下线
