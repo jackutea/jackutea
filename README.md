@@ -41,6 +41,10 @@ https://github.com/JackGuiding
 @lazyihui 成长中的游戏工程师: https://github.com/lazyihui  
 @MiaoELin 成长中的游戏工程师: https://github.com/miaoelin  
 
+### Buy me a tea
+如果你认为我帮助到了你，并且你条件宽裕，不介意的话，可以对我进行打赏。
+![ed5df319ba31baf2005f175750ae0f9](https://github.com/jackutea/jackutea/assets/35490742/52d9ab87-f6a5-411d-a9ba-245952888ab5)
+![d721fa6151bfcd2ed13327d895886d1](https://github.com/jackutea/jackutea/assets/35490742/329a4820-9083-461a-952e-60cc4d8da5e4)
 
 [![杰克有茶's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackutea)](https://github.com/anuraghazra/github-readme-stats)  
 [![杰克有茶's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackutea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
