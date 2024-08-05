@@ -5,8 +5,8 @@
 争取60周岁前成为世界上最优秀的游戏创作者之一。  
 
 ### 我的作品
-🎮 在线 | 🤿 研发中
-1. 🤿「忍者明」Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140
+    🎮 在线 | 🤿 研发中
+- 🤿「忍者明」Steam 抢先体验中(在努力制作中): https://store.steampowered.com/app/1504140
 
 ### 我的教学
 https://github.com/JackGuiding
